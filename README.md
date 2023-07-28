@@ -15,7 +15,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:social-links {"align":"center"} -->
-<ul class="wp-block-social-links aligncenter"><!-- 
+<ul class="wp-block-social-links aligncenter">
 
 
 <html>
