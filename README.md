@@ -36,15 +36,15 @@
     </tr>
     <tr>
       <td>HTML</td>
-      <td class="neon-percent" data-percent="90"></td>
+      <td class="percent"data-percent="90"></td>
     </tr>
     <tr>
       <td>CSS</td>
-      <td class="neon-percent" data-percent="85"></td>
+      <td class="percent"data-percent="85"></td>
     </tr>
     <tr>
       <td>JavaScript</td>
-      <td class="neon-percent" data-percent="75"></td>
+      <td class="percent"data-percent="75"></td>
     </tr>
     <!-- Add more rows for other coding languages and their skills -->
   </table>
