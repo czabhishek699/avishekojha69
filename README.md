@@ -15,19 +15,8 @@ to<!-- wp:spacer -->
 <!-- /wp:paragraph -->
 
 <!-- wp:social-links {"align":"center"} -->
-<ul class="wp-block-social-links aligncenter"><!-- wp:social-link {"url":"https://www.facebook.com/abisuraj.ojha?mibextid=ZbWKwL","service":"facebook","label":"","rel":""} /-->
+<ul class="wp-block-social-links aligncenter"><!-- 
 
-<!-- wp:social-link {"url":"https://youtube.com/cz_abhishek","service":"youtube","label":"","rel":""} /-->
-
-<!-- wp:social-link {"url":"https://www.tiktok.com/@czabhishek?_t=8eMAeYfzH9d\u0026amp;_r=1","service":"tiktok","label":"","rel":""} /-->
-
-<!-- wp:social-link {"url":"https://instagram.com/czabhishek","service":"instagram","label":"","rel":""} /-->
-
-<!-- wp:social-link {"url":"https://github.com/czabhishek699","service":"github","label":"","rel":""} /--></ul>
-<!-- /wp:social-links -->
-
-<!-- wp:paragraph -->
-<!-- /wp:paragraph -->
 <!DOCTYPE html>
 <html>
 <head>
