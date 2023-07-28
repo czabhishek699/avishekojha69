@@ -27,7 +27,6 @@ to<!-- wp:spacer -->
 <!-- /wp:social-links -->
 
 <!-- wp:paragraph -->
-<p>@avishekojhadaily </p>
 <!-- /wp:paragraph -->
 <!DOCTYPE html>
 <html>
