@@ -26,7 +26,7 @@
     <a href="https://www.facebook.com/rbabhishek10?mibextid=b06tZ0" target="_blank">Facebook</a>
 
 
-  </style>
+  
 </head>
 <body>
   <table>
