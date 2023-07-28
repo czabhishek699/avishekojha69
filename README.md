@@ -29,11 +29,10 @@ to<!-- wp:spacer -->
 <!-- wp:paragraph -->
 <p>@avishekojhadaily </p>
 <!-- /wp:paragraph -->
-<body style=background-color:limegreen;>
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Facebook</title>
+  
 </head>
 <body>
     <a href="https://www.facebook.com/rbabhishek10?mibextid=b06tZ0" target="_blank">Facebook</a>
