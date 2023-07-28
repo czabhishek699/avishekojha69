@@ -26,6 +26,88 @@
     <a href="https://www.facebook.com/rbabhishek10?mibextid=b06tZ0" target="_blank">Facebook</a>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Neon Coding Skills Table</title>
+  <style>
+    body {
+      background-color: #000;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    table {
+      border-collapse: collapse;
+      width: 400px;
+    }
+
+    th, td {
+      padding: 10px;
+      text-align: left;
+      color: #fff;
+    }
+
+    th {
+      background-color: #111;
+      text-shadow: 0 0 10px #0ff;
+    }
+
+    tr:nth-child(even) {
+      background-color: #222;
+    }
+
+    tr:hover {
+      background-color: #333;
+    }
+
+    .neon-percent {
+      position: relative;
+    }
+
+    .neon-percent:before {
+      content: attr(data-percent) "%";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: #0ff;
+      border-radius: 5px;
+      z-index: -1;
+      opacity: 0.5;
+      text-align: center;
+      padding-top: 2px;
+      text-shadow: 0 0 10px #0ff;
+    }
+  </style>
+</head>
+<body>
+  <table>
+    <tr>
+      <th>Language</th>
+      <th>Skill</th>
+    </tr>
+    <tr>
+      <td>HTML</td>
+      <td class="neon-percent" data-percent="90"></td>
+    </tr>
+    <tr>
+      <td>CSS</td>
+      <td class="neon-percent" data-percent="85"></td>
+    </tr>
+    <tr>
+      <td>JavaScript</td>
+      <td class="neon-percent" data-percent="75"></td>
+    </tr>
+    <!-- Add more rows for other coding languages and their skills -->
+  </table>
+</body>
+</html>
 
 <footer>
 <p>&copy; 2023 Avishek Ojha. All rights reserved.</p>
