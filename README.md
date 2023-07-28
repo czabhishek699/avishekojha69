@@ -1,47 +1,37 @@
  AVISHEK OJHA
- <!DOCTYPE html>
-<html>
 
-<head>
-    <title>Coding Skills Graph</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-        }
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
 
-        .graph-container {
-            width: 400px;
-            margin: 20px auto;
-            border: 1px solid #ccc;
-            padding: 10px;
-        }
+<!-- wp:image {"align":"center","id":6,"sizeSlug":"medium","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image aligncenter size-medium is-style-rounded"><img src="https://ojhaavicode.files.wordpress.com/2023/07/picsart_23-07-08_15-16-26-741.jpg?w=181" alt="Avishek Ojha" class="wp-image-6"/></figure>
+<!-- /wp:image -->
 
-        .bar {
-            display: inline-block;
-            width: 30px;
-            margin: 0 5px;
-            background-color: #3498db;
-            color: #fff;
-            text-align: center;
-            line-height: 100px;
-            height: 100px;
-        }
-    </style>
-</head>
+<!-- wp:heading {"textAlign":"center","level":1,"className":"margin-bottom-half"} -->
+<h1 class="wp-block-heading has-text-align-center margin-bottom-half">Avishek Ojha</h1>
+<!-- /wp:heading -->
 
-<body>
-    <h1>Coding Skills Graph</h1>
-    <div class="graph-container">
-        <div class="bar" style="height: 60px;">60%</div>
-        <div class="bar" style="height: 80px;">80%</div>
-        <div class="bar" style="height: 90px;">90%</div>
-        <!-- Add more bars for different skills with appropriate heights (0 to 100%) -->
-    </div>
-</body>
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":18}}} -->
+<p class="has-text-align-center" style="font-size:18px">I'm a beginner software developer, who also thrives as an avid blogger and digital media strategist. I get excited about new projects and ideas. Let's connect!</p>
+<!-- /wp:paragraph -->
 
-</html>
+<!-- wp:social-links {"align":"center"} -->
+<ul class="wp-block-social-links aligncenter"><!-- wp:social-link {"url":"https://www.facebook.com/abisuraj.ojha?mibextid=ZbWKwL","service":"facebook","label":"","rel":""} /-->
+
+<!-- wp:social-link {"url":"https://youtube.com/cz_abhishek","service":"youtube","label":"","rel":""} /-->
+
+<!-- wp:social-link {"url":"https://www.tiktok.com/@czabhishek?_t=8eMAeYfzH9d\u0026amp;_r=1","service":"tiktok","label":"","rel":""} /-->
+
+<!-- wp:social-link {"url":"https://instagram.com/czabhishek","service":"instagram","label":"","rel":""} /-->
+
+<!-- wp:social-link {"url":"https://github.com/czabhishek699","service":"github","label":"","rel":""} /--></ul>
+<!-- /wp:social-links -->
+
+<!-- wp:paragraph -->
+<p>@avishekojhadaily </p>
+<!-- /wp:paragraph -->
 
 <footer>
-        <p>&copy; 2023 Avishek Ojha. All rights reserved.</p>
-    </footer>
+<p>&copy; 2023 Avishek Ojha. All rights reserved.</p>
+</footer>
