@@ -41,49 +41,6 @@
       height: 100vh;
     }
 
-    table {
-      border-collapse: collapse;
-      width: 400px;
-    }
-
-    th, td {
-      padding: 10px;
-      text-align: left;
-      color: #fff;
-    }
-
-    th {
-      background-color: #111;
-      text-shadow: 0 0 10px #0ff;
-    }
-
-    tr:nth-child(even) {
-      background-color: #222;
-    }
-
-    tr:hover {
-      background-color: #333;
-    }
-
-    .neon-percent {
-      position: relative;
-    }
-
-    .neon-percent:before {
-      content: attr(data-percent) "%";
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background-color: #0ff;
-      border-radius: 5px;
-      z-index: -1;
-      opacity: 0.5;
-      text-align: center;
-      padding-top: 2px;
-      text-shadow: 0 0 10px #0ff;
-    }
   </style>
 </head>
 <body>
