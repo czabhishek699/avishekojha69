@@ -17,7 +17,7 @@ to<!-- wp:spacer -->
 <!-- wp:social-links {"align":"center"} -->
 <ul class="wp-block-social-links aligncenter"><!-- 
 
-<!DOCTYPE html>
+
 <html>
 <head>
   
