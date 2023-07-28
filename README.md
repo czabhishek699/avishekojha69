@@ -30,6 +30,15 @@ to<!-- wp:spacer -->
 <p>@avishekojhadaily </p>
 <!-- /wp:paragraph -->
 <body style=background-color:limegreen;>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Random Website URL Link</title>
+</head>
+<body>
+    <a href="https://www.example.com" target="_blank">Visit Random Website</a>
+</body>
+</html>
 
 <footer>
 <p>&copy; 2023 Avishek Ojha. All rights reserved.</p>
