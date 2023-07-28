@@ -2,9 +2,11 @@
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:image {"align":"center","id":6,"sizeSlug":"medium","linkDestination":"none","className":"is-style-rounded"} -->
-<figure class="wp-block-image aligncenter size-medium is-style-rounded"><img src="https://ojhaavicode.files.wordpress.com/2023/07/picsart_23-07-08_15-16-26-741.jpg?w=181" alt="Avishek Ojha" class="wp-image-6"/></figure>
+<!-- wp:image {"align":"center","id":21,"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image aligncenter size-large is-style-rounded"><img src="https://ojhaavicode.files.wordpress.com/2023/07/picsart_23-07-08_15-16-26-741-modified.png?w=720" alt="" class="wp-image-21"/></figure>
 <!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":1,"className":"margin-bottom-half"} -->
 
 <!-- wp:heading {"textAlign":"center","level":1,"className":"margin-bottom-half"} -->
 <h1 class="wp-block-heading has-text-align-center margin-bottom-half">Avishek Ojha</h1>
